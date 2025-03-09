@@ -777,7 +777,7 @@ For example, the following Markdown:
   {ref}`a reference to the span <spanid>`
 
 - `A literal with attributes`{#literalid .bg-warning},
-  {ref}`a reference to the literal <literalid>
+  {ref}`a reference to the literal <literalid>`
 
 - An autolink with attributes: <https://example.com>{.bg-warning title="a title"}
 
